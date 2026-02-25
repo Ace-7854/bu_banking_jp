@@ -77,7 +77,8 @@ After succesfull build run the container from image you have build
 
 `sudo docker run -p 8001:8000 banking`
 
-Access website on your localhost http://127.0.0.1:8000/api/
+Access website on your localhost http://localhost:8001/api/
+
 
 now kill the server Ctrl+C
 
